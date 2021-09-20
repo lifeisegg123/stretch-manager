@@ -23,5 +23,5 @@
       "matches": []
     }
   ],
-  "permissions": ["storage", "notifications"]
+  "permissions": ["alarms", "storage", "notifications", "tabs"]
 }
